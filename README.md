@@ -1,5 +1,4 @@
 # Lab2Web
-Praktikum kedua mata kuliah Pemrograman WEB
 Nama        : Ridho Yusuf FItra<br>
 NIM         : 311910652<br>
 Kelas       : TI.19.A3<br>
