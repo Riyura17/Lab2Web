@@ -7,21 +7,21 @@ Mata Kuliah : Pemrograman WEB<hr>
 
 1. Membuat Dokumen HTML
 Langkah awal praktikum yaitu membuat file dokumen .html
-![01  Membuat  Dokumen HTML](https://user-images.githubusercontent.com/59679660/113866467-921bf280-97d7-11eb-9f00-723f09b34118.png)<br>
+![01  Membuat  Dokumen HTML](https://user-images.githubusercontent.com/59679660/113869125-90076300-97da-11eb-8f01-2c9fecc64f39.png)<br>
 
 2. Mendeklarasikan CSS
 Menambahkan CSS internal di bagian head dokumen seperti style body, header, dll.
-![02  Mendeklarasikan CSS Internal](https://user-images.githubusercontent.com/59679660/113867045-3e5dd900-97d8-11eb-85ad-187e3651ae27.png)<br>
+![02  Mendeklarasikan CSS Internal](https://user-images.githubusercontent.com/59679660/113869166-9a296180-97da-11eb-88ed-6e6c04d64200.png)<br>
 
 3. Menambahkan Inline CSS
 Menambahkan deklarasi inline CSS pada tag /*<p>*/
-![03  Menambahkan Inline CSS](https://user-images.githubusercontent.com/59679660/113867391-ae6c5f00-97d8-11eb-904c-0b6ac940405b.png)<br>
+![03  Menambahkan Inline CSS](https://user-images.githubusercontent.com/59679660/113869196-a1e90600-97da-11eb-84f6-b935736212f0.png)<br>
 
 4. Membuat CSS Eksternal
 Membuat dokumen baru dengan nama style_eksternal.css dan menambahkan tag <link> untuk merujuk file CSS pada bagian <head>
-![4  CSS Eksternal](https://user-images.githubusercontent.com/59679660/113867872-3eaaa400-97d9-11eb-91e4-5685a718df93.png)
+![4  CSS Eksternal](https://user-images.githubusercontent.com/59679660/113869273-b88f5d00-97da-11eb-9f48-f6b09015e704.png)
 Dan tampialnnya akan seperti ini
-![04  Membuat CSS Eksternal](https://user-images.githubusercontent.com/59679660/113867919-4f5b1a00-97d9-11eb-8168-1ca84b1d84cd.png)<br>
+![04  Membuat CSS Eksternal](https://user-images.githubusercontent.com/59679660/113869225-aad9d780-97da-11eb-9633-3c21f10112da.png)<br>
 
 5. Menambahkan CSS Selector
 Menambahkan CSS selector menggunakan ID dan Class Selector di file style_eksternal.css
